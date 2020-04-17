@@ -1,5 +1,5 @@
 # todos
-<<<<<<< HEAD
+https://lzzwwen-todos.netlify.app/
 
 ## Project setup
 ```
